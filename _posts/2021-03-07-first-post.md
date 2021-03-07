@@ -1,9 +1,10 @@
 ---
-title: 첫 github blog 를 만들었다.
-author: beadoer1
+title: "첫 github blog 를 만들었다."
 date: 2021-03-07 22:10:00 +0900
-categories: [Blog 관리]
-tags: [Blog, 만들었다]
+categories: 
+	- Blog 관리
+tags: 
+	- Blog 생성
 ---
 
  github 에서 처음 블로그를 만들어 보았다. 
