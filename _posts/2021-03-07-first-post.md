@@ -1,7 +1,8 @@
 ---
 title: "첫 github blog를 만들었다"
 date: 2021-03-07 22:10:00 +0900
-categories: Blog 관리
+categories: 
+  - Blog 관리
 tags: 
   - github
   - Blog
