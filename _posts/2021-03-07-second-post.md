@@ -1,5 +1,5 @@
 ---
-title: ""항해99 1주차 WIL(Week I Learned)"
+title: "항해99 1주차 WIL(Week I Learned)"
 date: 2021-03-07 23:50:00 +0900
 categories:
   - 항해99 WIL
