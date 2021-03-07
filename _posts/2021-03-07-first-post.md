@@ -1,5 +1,5 @@
 ---
-title: "첫 github blog 를 만들었다."
+title: "첫 github blog 를 만들었다"
 date: 2021-03-07 22:10:00 +0900
 categories: 
 	- Blog 관리
@@ -18,4 +18,5 @@ tags:
  추가로, 블로그는 'Jekyll remote theme' 이라는 jekyll의 플러그인을 사용하여 만들었다. 해당 플러그인은 Github에 공개되어 있는 어떤 Jekyll 테마든지 가져와서 쓸 수 있도록 하는 것으로, 단 두 개의 파일 정도만 나의 레포지토리에 올리고 몇 가지만 변경해주면 나만의 블로그를 완성할 수 있다. 이 말인즉, 원할 때는 위 두 개의 파일만 변경해주면 블로그의 테마를 마음대로 바꿀 수 있다는 것을 뜻한다.(라고 이해했다.) 매우 흥미롭다.
 
 참조 url : [https://dreamgonfly.github.io/blog/jekyll-remote-theme/](https://dreamgonfly.github.io/blog/jekyll-remote-theme/)
+
 
