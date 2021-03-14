@@ -11,7 +11,7 @@ $type-size-4-5: 1.12em !default; // Ubuntu Mono is a bit small
 @import "minimal-mistakes/skins/default"; // skin
 @import "minimal-mistakes";
 
-@import url(https://fonts.googleapis.com/css2?family=Nanum+Gothic:wght@700&display=swap|Ubuntu+Mono);
+@import url(https://fonts.googleapis.com/css2?family=Nanum+Gothic|Ubuntu+Mono);
 
 // https://github.com/mmistakes/minimal-mistakes/issues/1219
 html {
@@ -38,5 +38,5 @@ html {
 .language-plaintext {
   font-family: $monospace;
   font-size: $type-size-5;
-  background: #c0ffee;
+  background: #A9D0F5;
 }
