@@ -1,5 +1,5 @@
 ---
-title: "항해99 1주차 WIL(Week I Learned)"
+title: "항해99 1주차 WIL(웹개발 미니프로젝트, 알고리즘 풀이)"
 date: 2021-03-07 23:50:00 +0900
 categories:
   - 항해99 WIL
@@ -7,6 +7,7 @@ tags:
   - 항해99
   - WIL
   - Week I Learned
+  - week1
 ---
 
 ※ 블로그 글의 경우 실제 코드 구현에 대한 것 보다는 무언가 수행하며 전반적으로 깨닫게 된 것들에 대해 글로 풀어볼 생각이다. 코드 구현 혹은 지식에 대한 부분은 [github.com/beadoer1/TIL](https://github.com/beadoer1/TIL) 이곳에 차곡차곡 모아보도록 하겠다.(좀 너저분하긴 한데 계속 정리하자.)
