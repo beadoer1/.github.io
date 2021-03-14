@@ -3,7 +3,7 @@
 --- 
 
 // https://mmistakes.github.io/minimal-mistakes/docs/stylesheets/#customizing
-$sans-serif: 'Noto Sans KR';
+$sans-serif: 'Nanum Gothic';
 $monospace: 'Ubuntu Mono';
 $type-size-4-5: 1.12em !default; // Ubuntu Mono is a bit small
 
@@ -11,7 +11,7 @@ $type-size-4-5: 1.12em !default; // Ubuntu Mono is a bit small
 @import "minimal-mistakes/skins/default"; // skin
 @import "minimal-mistakes";
 
-@import url(https://fonts.googleapis.com/css?family=Noto+Sans+KR|Ubuntu+Mono);
+@import url(https://fonts.googleapis.com/css2?family=Nanum+Gothic|Ubuntu+Mono);
 
 // https://github.com/mmistakes/minimal-mistakes/issues/1219
 html {
@@ -26,7 +26,7 @@ html {
   }
 
   @include breakpoint($x-large) {
-    font-size: 16px; // change to whatever
+    font-size: 17px; // change to whatever
   }
 }
 
