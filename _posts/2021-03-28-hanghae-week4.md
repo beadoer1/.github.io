@@ -10,7 +10,7 @@ tags:
   - week4
 ---
 
-※ 알게된 지식은 이곳에👉 [github.com/beadoer1/TIL](https://github.com/beadoer1/TIL)  
+※ 지식 정리는 이곳에👉 [github.com/beadoer1/TIL](https://github.com/beadoer1/TIL)  
   
 ## Spring miniPJT1 마무리, miniPJT2 시작
 주특기 첫 번째 미니 프로젝트인 'Spring Boot 기반 CRUD 기능이 포함된 웹서비스 만들기'를 완료하고 두 번째 '회원가입, 로그인, 댓글 작성/수정/삭제 기능이 추가된 웹서비스 만들기' 주차에 돌입했다. 이번주는 지식에 대한 깨달음 보다는 공부 방법에 대해 많이 생각해 보았기에, 이를 정리하려 한다.  
